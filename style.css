@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav-content{
+    background-color: #ff0000;
+}
+#ul-content{
+    list-style: none;
+    display: flex;
+    width: 30%;
+}
+#li-content{
+    padding: 38px;
+}
+
+#li-content a{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 19px;
+}
+.img-logo{
+    width: 18%;
+    float: left;
+    margin-right: -50px;
+}
+.carrinho{
+    width: 9%;
+    float: right;
+    padding: 30px;
+    margin-left: 1px;
+    margin-top: -20px;
+}
